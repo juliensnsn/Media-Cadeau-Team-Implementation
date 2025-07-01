@@ -25,17 +25,3 @@
     </li>
   </ul>
 </section>
-
-
-<section>
-  <h3>Project Management – Launch of a New Salesforce-Based Product Offering</h3>
-  <p>
-    Managed a 6-month cross-functional project to launch a new product offering, overseeing all related dependencies and processes. This initiative required close collaboration with stakeholders from Operations, Product, Finance, Sales, and Growth teams. The project unfolded in two main phases: three months dedicated to requirements gathering and solution architecture, followed by three months of development, iterative testing, and the selection of users for a demo environment.
-  </p>
-  <p>
-    I drove the full project lifecycle—from initial needs analysis to implementation, custom Salesforce billing, and ongoing maintenance. The billing process was custom-built within Salesforce, including the design and deployment of tailored Quote, Invoice, and Subscription pages, and integrating DocuSign for seamless document management.
-  </p>
-  <p>
-    As a result of this project, approximately twenty new users were onboarded to Salesforce as part of the new offer.
-  </p>
-</section>
