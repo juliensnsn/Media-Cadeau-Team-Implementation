@@ -1,5 +1,5 @@
 <section>
-  <h3>Project Management – Launch of a New Salesforce-Based Product Offering</h3>
+  <h3>Project Management – Launch of a New Salesforce-Based Product Offering (Media-Cadeau)</h3>
   <ul>
     <li>
       <strong>Duration:</strong> 6 months
